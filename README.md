@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Divine Whisper lineage repository.** This is a preserved experimental stage or supporting component. Start with the [canonical ecosystem index](https://github.com/aruintelligence/divine-whisper-ecosystem) for the complete version map, current context, and research-scope notice.
+
 # Divine Whisper v10.1 – The Covenant Engine (Witness Affirmation)
 
 **Patch release – Witnessing stabilized**  
